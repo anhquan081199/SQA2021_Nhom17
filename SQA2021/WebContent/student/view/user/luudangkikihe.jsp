@@ -59,9 +59,10 @@
 										</tr>
 									</tbody>
 								</table>
-
-								<a
-									href="/SQA2021/thanhcong">Lưu đăng kí</a> <br>
+								<div  style="text-align: center;">
+								<a style="color: blue;"
+									href="/SQA2021/thanhcong">Lưu đăng kí</a>
+									</div> <br>
 							</div>
 						</div>
 					</div>

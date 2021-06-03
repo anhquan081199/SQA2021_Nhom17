@@ -36,7 +36,7 @@
 												<tr>
 													<td>${monHoc.idMonHoc }</td>
 													<td>${monHoc.tenMonHoc }</td>
-													<td><a href="/SQA2021/student/chonlophocphankichinh?idMonHoc=${monHoc.idMonHoc }"  >Đăng kí</a></td>
+													<td><a style="color: blue;" href="/SQA2021/student/chonlophocphankichinh?idMonHoc=${monHoc.idMonHoc }"  >Đăng kí</a></td>
 												</tr>
 											</tbody>
 										</c:forEach>

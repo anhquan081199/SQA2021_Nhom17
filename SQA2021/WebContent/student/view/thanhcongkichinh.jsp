@@ -20,7 +20,7 @@
 					<div class="right__content">
 						<div class="right__title">Đăng kí thành công</div>	
 						
-						<a href="/SQA2021/student/danhsachmonhoc">Tiếp tục</a> <br>				
+						<a style="color: blue;" href="/SQA2021/student/danhsachmonhoc">Tiếp tục</a> <br>				
 				</div>
 				
 				

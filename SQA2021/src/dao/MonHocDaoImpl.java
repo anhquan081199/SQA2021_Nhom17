@@ -45,7 +45,7 @@ public class MonHocDaoImpl implements MonHocDao {
 		MonHoc monHoc=new MonHoc();
 		
 		Connection connection = JDBCConnection.getJDBConnection();
-		String sql = "select *from monhoc where idmonhoc =?";
+		String sql = "select *from monhoc where idmonhoc like ?";
 		
 		try {
 			PreparedStatement preparedStatement=connection.prepareStatement(sql);

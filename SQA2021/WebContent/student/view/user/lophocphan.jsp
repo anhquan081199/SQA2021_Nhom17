@@ -56,7 +56,8 @@
 												<td>${lopHocPhan.phong }</td>
 												<td>${lopHocPhan.tuan }</td>
 												<td>${lopHocPhan.soLuong }</td>
-												<td><a
+												<td>
+												<a style="color: blue;"
 													href="/SQA2021/student/luudangkikihe?idLopHocPhan=${lopHocPhan.idLopHocPhan }">Đăng kí</a></td>
 											</tr>
 										</tbody>
